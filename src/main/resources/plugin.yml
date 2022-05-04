@@ -1,0 +1,7 @@
+name: Chenghao
+main: com.FBinggun.ChengHao
+version: 3.0.0
+softdepend: [ PlaceholderAPI ]
+author: q1728482805,sandtechnology
+commands:
+  ch:

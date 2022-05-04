@@ -1,0 +1,14 @@
+version: 1
+Message:
+  Fatal: "你触发了致命一击"
+  Crit: "你触发了暴击:"
+  Armordamage: "你触发了破甲 破甲伤害:"
+  Lifedraw: "你触发了吸血 获得生命恢复:"
+  Wither: "你触发了凋零效果"
+  Poison: "你触发了剧毒效果"
+  Frozen: "你触发了冰封效果"
+  Weakening: "你触发了弱化效果"
+  Nausea: "你触发了反胃效果"
+  Blindness: "你触发了致盲效果"
+  Thorns: "你触发了反伤效果：反伤值："
+  Dogde: "你触发了闪避效果"

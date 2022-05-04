@@ -1,0 +1,21 @@
+chenghao:
+  ##模板ID 可任意字母或数字（其实中文也是可以的）
+  ch1:
+    ##称号
+    name: "§e[&a疯子冰棍&e]"
+    ##属性
+    Attack: 10
+    Armor: 10
+    CritDamage: 10
+    CritChance: 10
+    Dogde: 10
+  ##模板ID 可任意字母或数字（其实中文也是可以的）
+  ch2:
+    name: "§e[&a我只是个模板&e]"
+    Attack: 10
+    Armor: 10
+    CritDamage: 10
+    CritChance: 10
+    Dogde: 10
+    ##模板使用指令 ch mb id[玩家ID] xxx[模板ID] 0 [时间]
+    ## 0为永不过期 1代表一天
