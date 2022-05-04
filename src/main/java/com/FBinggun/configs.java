@@ -3,7 +3,7 @@ package com.FBinggun;
 import org.bukkit.entity.Player;
 
 /**
- * For backward complete
+ * For backward compatibility of placeholder expansion
  */
 @Deprecated
 public class configs {
